@@ -1,103 +1,103 @@
-- **[@dani_krossing](https://www.youtube.com/@dani_krossing)**: 465K ‧ Dani Krossing ‧ Independent Developer
-- **[@codecourse](https://www.youtube.com/@codecourse)**: 341K ‧ Alex Garrett-Smith ‧ Founder of Codecourse
-- **[@grafikart](https://www.youtube.com/@grafikart)**: 292K ‧ Jonathan Boyer ‧ Independent Developer
-- **[@codelytv](https://www.youtube.com/@codelytv)**: 147K ‧ CodelyTV
-- **[@laraveldaily](https://www.youtube.com/@laraveldaily)**: 137K ‧ Povilas Korop ‧ Founder of Laravel Daily
-- **[@bitfumes](https://www.youtube.com/@bitfumes)**: 131K ‧ Sarthak Shrivastava ‧ Founder of Bitfumes
-- **[@teachersdunet](https://www.youtube.com/@teachersdunet)**: 114K ‧ Honoré Hounwanou ‧ Teacher at Teachers du Net
-- **[@thecodeholic](https://www.youtube.com/@thecodeholic)**: 73.1K ‧ Zura Sekhniashvili ‧ Founder of The Codeholic
-- **[@codewithdary](https://www.youtube.com/@codewithdary)**: 57.9K ‧ Dary Nazar ‧ Founder of Code with Dary
-- **[@laracastsofficial](https://www.youtube.com/@laracastsofficial)**: 54.4K ‧ Laracasts
-- **[@drehimself](https://www.youtube.com/@drehimself)**: 53.3K ‧ Andre Madarang ‧ Independent Developer
-- **[@celkecursos](https://www.youtube.com/@celkecursos)**: 52.9K ‧ Cesar Nicolau ‧ Founder of Celke
-- **[@programwithgio](https://www.youtube.com/@programwithgio)**: 48.7K ‧ Giorgi G ‧ Founder of Program With Gio
-- **[@jldrpt](https://www.youtube.com/@jldrpt)**: 45.7K ‧ João Ribeiro ‧ Independent Developer
-- **[@liorchamla](https://www.youtube.com/@liorchamla)**: 41.6K ‧ Lior Chamla ‧ Independent Developer
-- **[@laravelphp](https://www.youtube.com/@laravelphp)**: 36.2K ‧ Laravel
-- **[@adamwathan](https://www.youtube.com/@adamwathan)**: 35.1K ‧ Adam Wathan ‧ Co-Founder of Tailwind CSS
-- **[@perfectwebsolutions](https://www.youtube.com/@perfectwebsolutions)**: 33.1K ‧ Imran Qasim ‧ Developer at Perfect Web Solutions
-- **[@aschmelyun](https://www.youtube.com/@aschmelyun)**: 31.6K ‧ Andrew Schmelyun ‧ Founder of Indrio Labs
-- **[@laraconeu](https://www.youtube.com/@laraconeu)**: 31.4K ‧ Laracon EU
-- **[@diasdedev](https://www.youtube.com/@diasdedev)**: 31.3K ‧ Vinicius Dias ‧ Software Engineer at SOCi
-- **[@aarondfrancis](https://www.youtube.com/@aarondfrancis)**: 30.4K ‧ Aaron Francis ‧ Developer at PlanetScale
-- **[@laraveljutsu](https://www.youtube.com/@laraveljutsu)**: 24.3K ‧ Ludovic Guénet ‧ Founder of Laravel Jutsu
-- **[@EspecializatiBr](https://www.youtube.com/@EspecializatiBr)**: 23.7K ‧ Carlos Ferreira ‧ Founder of EspecializaTi
-- **[@laravelnews](https://www.youtube.com/@laravelnews)**: 23.4K ‧ Eric Barnes ‧ Founder of Laravel News
-- **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: 20.7K ‧ Tiago Matos ‧ Independent Developer
-- **[@alexandrecardoso](https://www.youtube.com/@alexandrecardoso)**: 19.1K ‧ Alexandre Cardoso ‧ Independent Developer
-- **[@yoandevco](https://www.youtube.com/@yoandevco)**: 18.2K ‧ Yoan Bernabeu ‧ Founder of YoanDev
-- **[@amitavroydev](https://www.youtube.com/@amitavroydev)**: 17.8K ‧ Amitav Roy ‧ Independent Developer
-- **[@laratips](https://www.youtube.com/@laratips)**: 17K ‧ Ashish Dhamala ‧ Developer at SATs Companion
-- **[@beerandcode](https://www.youtube.com/@beerandcode)**: 16K ‧ Lucas Souza ‧ Co-Founder of Beer And Code
-- **[@fideloper](https://www.youtube.com/@fideloper)**: 15.8K ‧ Chris Fidao ‧ Developer at Fly.io
-- **[@garyclarketech](https://www.youtube.com/@garyclarketech)**: 15.1K ‧ Gary Clarke ‧ Founder of Gary Clarke Tech
-- **[@phpannotated](https://www.youtube.com/@phpannotated)**: 14K ‧ Brent Roose ‧ Developer at JetBrains
-- **[@Maniruzzaman](https://www.youtube.com/@Maniruzzaman)**: 13.9K ‧ Maniruzzaman Akash ‧ Founder of DevsEnv
-- **[@lessonsim](https://www.youtube.com/@lessonsim)**: 13.2K ‧ Mohammed Fahad ‧ Developer, Content Creator
-- **[@wdevoficial](https://www.youtube.com/@wdevoficial)**: 12.9K ‧ Content Creator
-- **[@thirus](https://www.youtube.com/@thirus)**: 12K ‧ Shruti Balasa ‧ Independent Developer
-- **[@yelocode](https://www.youtube.com/@yelocode)**: 11.3K ‧ Martin Yelo ‧ Independent Developer
-- **[@davidconnelly](https://www.youtube.com/@davidconnelly)**: 11.2K ‧ David Connelly ‧ Founder of Trongate
-- **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: 9.4K ‧ Ismael Catalá Gil ‧ Founder of El Rincón de Isma
-- **[@codeexperts](https://www.youtube.com/@codeexperts)**: 9K ‧ Content Creator
-- **[@zaprogramujzycie](https://www.youtube.com/@zaprogramujzycie)**: 8.9K ‧ Content Creator
-- **[@themsaid](https://www.youtube.com/@themsaid)**: 8.2K ‧ Mohamed Said ‧ Independent Developer
-- **[@mattstauffer](https://www.youtube.com/@mattstauffer)**: 7.9K ‧ Matt Stauffer ‧ Founder of Tighten
-- **[@freekmurze](https://www.youtube.com/@freekmurze)**: 7.1K ‧ Freek Van der Herten ‧ Partner at Spatie
-- **[@pinguimdolaravel](https://www.youtube.com/@pinguimdolaravel)**: 6.7K ‧ Rafael Lunardelli ‧ Founder of Pinguim Academy
-- **[@mateusguimaraes](https://www.youtube.com/@mateusguimaraes)**: 6.4K ‧ Mateus Guimarães ‧ Developer at ENTRE Institute
-- **[@juststeveking](https://www.youtube.com/@juststeveking)**: 6K ‧ Steve King ‧ Developer Relations at Treblle
-- **[@ThibaudDauce](https://www.youtube.com/@ThibaudDauce)**: 5.9K ‧ Thibaud Dauce ‧ Independent Developer
-- **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: 5.5K ‧ Nuno Maduro ‧ Developer at Laravel
-- **[@devtechtips](https://www.youtube.com/@devtechtips)**: 5.1K ‧ Julio Cesar Urnau de Almeida ‧ CTO at Academia do Ecommerce
-- **[@toham](https://www.youtube.com/@toham)**: 4.7K ‧ Thomas Boileau ‧ Independent Developer
-- **[@saaslaravel](https://www.youtube.com/@saaslaravel)**: 4.4K ‧ Przemysław Przyłucki ‧ Content Creator
-- **[@filamentdaily](https://www.youtube.com/@filamentdaily)**: 4.4K ‧ Povilas Korop ‧ Founder of Laravel Daily
-- **[@carlosbuenosvinoszamora](https://www.youtube.com/@carlosbuenosvinoszamora)**: 4.1K ‧ Carlos Buenosvinos ‧ Author of Domain-Driven Design in PHP and CQRS by Example
-- **[@tiojobs](https://www.youtube.com/@tiojobs)**: 3.9K ‧ Tio Jobs ‧ Founder of JOBS TREINAMENTOS
-- **[@phparch](https://www.youtube.com/@phparch)**: 3.5K ‧ PHP Architect
-- **[@dersonsena-cabradev](https://www.youtube.com/@dersonsena-cabradev)**: 3.3K ‧ Kilderson Sena ‧ Developer at Yii Academy
-- **[@serversideupnet](https://www.youtube.com/@serversideupnet)**: 3.2K ‧ Server Side Up
-- **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: 3K ‧ Christoph Rumpel ‧ Author of Laravel Core Adventures
-- **[@metaphoricallyspeaking](https://www.youtube.com/@metaphoricallyspeaking)**: 2.9K ‧ Andrew Cairns ‧ Independent Developer
-- **[@differdev](https://www.youtube.com/@differdev)**: 2.6K ‧ Leonardo Tumadjian ‧ Content Creator at DifferDev
-- **[@pascalbaljet](https://www.youtube.com/@pascalbaljet)**: 2.5K ‧ Pascal Baljet ‧ Creator of Laravel Splade
-- **[@codewithburt](https://www.youtube.com/@codewithburt)**: 2.4K ‧ Bert De Swaef ‧ Developer at Vulpo
-- **[@laraphant](https://www.youtube.com/@laraphant)**: 2.4K ‧ William Juma Misiko ‧ Founder of Laraphant
-- **[@thejasonmccreary](https://www.youtube.com/@thejasonmccreary)**: 2.2K ‧ Jason McCreary ‧ Founder of Laravel Shift
-- **[@spatie](https://www.youtube.com/@spatie)**: 2.2K ‧ Spatie
-- **[@85bitsdeveloper](https://www.youtube.com/@85bitsdeveloper)**: 2.1K ‧ Content Creator
-- **[@laravelonline](https://www.youtube.com/@laravelonline)**: 1.7K ‧ Shane Rosenthal ‧ Founder of LaravelOnline
-- **[@philodev](https://www.youtube.com/@philodev)**: 1.7K ‧ Philo Hermans ‧ Founder of Anystack
-- **[@derickrethansxdebug](https://www.youtube.com/@derickrethansxdebug)**: 1.6K ‧ Derick Rethans ‧ Xdebug author and PHP contributor
-- **[@icodestuff](https://www.youtube.com/@icodestuff)**: 1.6K ‧ Icodestuff ‧ Content Creator
-- **[@agoalofalife](https://www.youtube.com/@agoalofalife)**: 1.5K ‧ Ilia Chubarov ‧ Independent Developer
-- **[@dasundev](https://www.youtube.com/@dasundev)**: 1.5K ‧ Dasun Tharanga ‧ Founder of Dasun Dev
-- **[@daltoncast](https://www.youtube.com/@daltoncast)**: 1.5K ‧ Jordan Dalton ‧ Developer at Financial
-- **[@olliecodes](https://www.youtube.com/@olliecodes)**: 1.5K ‧ Ollie Read ‧ Independent Developer
-- **[@euseiphp](https://www.youtube.com/@euseiphp)**: 1.4K ‧ Álvaro Jorge ‧ Founder of EuSeiPhp
-- **[@jackmcdade](https://www.youtube.com/@jackmcdade)**: 1.2K ‧ Jack McDade ‧ Co-Founder of Statamic
-- **[@filamentbr](https://www.youtube.com/@filamentbr)**: 1.1K ‧ Leandro Ferreira ‧ Content Creator at Filament Brasil
-- **[@leewayacademy](https://www.youtube.com/@leewayacademy)**: 993 ‧ Mauro Chojrin ‧ Technical Coach
-- **[@livewirephp](https://www.youtube.com/@livewirephp)**: 912 ‧ Caleb Porzio ‧ Founder of Livewire
-- **[@rmsramos](https://www.youtube.com/@rmsramos)**: 903 ‧ Rômulo Ramos ‧ Content Creator
-- **[@codewithsaleh](https://www.youtube.com/@codewithsaleh)**: 874 ‧ Saleh Hashemi ‧ Laravel Developer
-- **[@phpugly](https://www.youtube.com/@phpugly)**: 756 ‧ PHPUgly
-- **[@happytodev](https://www.youtube.com/@happytodev)**: 733 ‧ Fred Blanc ‧ Founder of HappyToDev
-- **[@laravelturkiye](https://www.youtube.com/@laravelturkiye)**: 648 ‧ Laravel Türkiye ‧ Turkish Laravel Community
-- **[@laravelschool](https://www.youtube.com/@laravelschool)**: 644 ‧ Thouhedul Islam ‧ Independent Developer
-- **[@techchess](https://www.youtube.com/@techchess)**: 536 ‧ Steve Nyanumba ‧ Kenyan Laravel Developer
-- **[@lorisleiva](https://www.youtube.com/@lorisleiva)**: 446 ‧ Loris Leiva ‧ Developer at Solana Labs
-- **[@96downlu](https://www.youtube.com/@96downlu)**: 445 ‧ Luke Downing ‧ Developer at Pest PHP core team
-- **[@codekif](https://www.youtube.com/@codekif)**: 441 ‧ Pavlove Biokou ‧ Independent Developer
-- **[@dcblogdev](https://www.youtube.com/@dcblogdev)**: 411 ‧ Developer at dcblog.dev
-- **[@amitmerchant](https://www.youtube.com/@amitmerchant)**: 408 ‧ Amit Merchant ‧ Developer at ValueLabs
-- **[@phpislife](https://www.youtube.com/@phpislife)**: 301 ‧ José Marcos ‧ Content Creator
-- **[@jacked-php](https://www.youtube.com/@jacked-php)**: 298 ‧ Savio Resende ‧ Independent Developer
-- **[@akbolota](https://www.youtube.com/@akbolota)**: 280 ‧ Bolota ‧ Developer at Falcon Tecnology
-- **[@milwad](https://www.youtube.com/@milwad)**: 202 ‧ Milwad ‧ Founder of Binafy
-- **[@simonhamp](https://www.youtube.com/@simonhamp)**: 176 ‧ Simon Hamp ‧ Developer at Tighten
-- **[@webmentor](https://www.youtube.com/@webmentor)**: 159 ‧ Lucas Antônio ‧ Founder of Webmentor
-- **[@nhrrob](https://www.youtube.com/@nhrrob)**: 118 ‧ Nazmul Hasan Robin ‧ Developer at WPDeveloper
-- **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 75 ‧ Marian Pop ‧ Founder of Laravel Magazine
-- **[@nexxai_dev](https://www.youtube.com/@nexxai_dev)**: 40 ‧ JT Smith ‧ Laravel Developer
+- **[@dani_krossing](https://www.youtube.com/@dani_krossing)**:  ‧ Dani Krossing ‧ Independent Developer
+- **[@codecourse](https://www.youtube.com/@codecourse)**:  ‧ Alex Garrett-Smith ‧ Founder of Codecourse
+- **[@grafikart](https://www.youtube.com/@grafikart)**:  ‧ Jonathan Boyer ‧ Independent Developer
+- **[@codelytv](https://www.youtube.com/@codelytv)**:  ‧ CodelyTV
+- **[@laraveldaily](https://www.youtube.com/@laraveldaily)**:  ‧ Povilas Korop ‧ Founder of Laravel Daily
+- **[@bitfumes](https://www.youtube.com/@bitfumes)**:  ‧ Sarthak Shrivastava ‧ Founder of Bitfumes
+- **[@teachersdunet](https://www.youtube.com/@teachersdunet)**:  ‧ Honoré Hounwanou ‧ Teacher at Teachers du Net
+- **[@thecodeholic](https://www.youtube.com/@thecodeholic)**:  ‧ Zura Sekhniashvili ‧ Founder of The Codeholic
+- **[@codewithdary](https://www.youtube.com/@codewithdary)**:  ‧ Dary Nazar ‧ Founder of Code with Dary
+- **[@laracastsofficial](https://www.youtube.com/@laracastsofficial)**:  ‧ Laracasts
+- **[@drehimself](https://www.youtube.com/@drehimself)**:  ‧ Andre Madarang ‧ Independent Developer
+- **[@celkecursos](https://www.youtube.com/@celkecursos)**:  ‧ Cesar Nicolau ‧ Founder of Celke
+- **[@programwithgio](https://www.youtube.com/@programwithgio)**:  ‧ Giorgi G ‧ Founder of Program With Gio
+- **[@jldrpt](https://www.youtube.com/@jldrpt)**:  ‧ João Ribeiro ‧ Independent Developer
+- **[@liorchamla](https://www.youtube.com/@liorchamla)**:  ‧ Lior Chamla ‧ Independent Developer
+- **[@laravelphp](https://www.youtube.com/@laravelphp)**:  ‧ Laravel
+- **[@adamwathan](https://www.youtube.com/@adamwathan)**:  ‧ Adam Wathan ‧ Co-Founder of Tailwind CSS
+- **[@perfectwebsolutions](https://www.youtube.com/@perfectwebsolutions)**:  ‧ Imran Qasim ‧ Developer at Perfect Web Solutions
+- **[@aschmelyun](https://www.youtube.com/@aschmelyun)**:  ‧ Andrew Schmelyun ‧ Founder of Indrio Labs
+- **[@laraconeu](https://www.youtube.com/@laraconeu)**:  ‧ Laracon EU
+- **[@diasdedev](https://www.youtube.com/@diasdedev)**:  ‧ Vinicius Dias ‧ Software Engineer at SOCi
+- **[@aarondfrancis](https://www.youtube.com/@aarondfrancis)**:  ‧ Aaron Francis ‧ Developer at PlanetScale
+- **[@laraveljutsu](https://www.youtube.com/@laraveljutsu)**:  ‧ Ludovic Guénet ‧ Founder of Laravel Jutsu
+- **[@EspecializatiBr](https://www.youtube.com/@EspecializatiBr)**:  ‧ Carlos Ferreira ‧ Founder of EspecializaTi
+- **[@laravelnews](https://www.youtube.com/@laravelnews)**:  ‧ Eric Barnes ‧ Founder of Laravel News
+- **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**:  ‧ Tiago Matos ‧ Independent Developer
+- **[@alexandrecardoso](https://www.youtube.com/@alexandrecardoso)**:  ‧ Alexandre Cardoso ‧ Independent Developer
+- **[@yoandevco](https://www.youtube.com/@yoandevco)**:  ‧ Yoan Bernabeu ‧ Founder of YoanDev
+- **[@amitavroydev](https://www.youtube.com/@amitavroydev)**:  ‧ Amitav Roy ‧ Independent Developer
+- **[@laratips](https://www.youtube.com/@laratips)**:  ‧ Ashish Dhamala ‧ Developer at SATs Companion
+- **[@beerandcode](https://www.youtube.com/@beerandcode)**:  ‧ Lucas Souza ‧ Co-Founder of Beer And Code
+- **[@fideloper](https://www.youtube.com/@fideloper)**:  ‧ Chris Fidao ‧ Developer at Fly.io
+- **[@garyclarketech](https://www.youtube.com/@garyclarketech)**:  ‧ Gary Clarke ‧ Founder of Gary Clarke Tech
+- **[@phpannotated](https://www.youtube.com/@phpannotated)**:  ‧ Brent Roose ‧ Developer at JetBrains
+- **[@Maniruzzaman](https://www.youtube.com/@Maniruzzaman)**:  ‧ Maniruzzaman Akash ‧ Founder of DevsEnv
+- **[@lessonsim](https://www.youtube.com/@lessonsim)**:  ‧ Mohammed Fahad ‧ Developer, Content Creator
+- **[@wdevoficial](https://www.youtube.com/@wdevoficial)**:  ‧ Content Creator
+- **[@thirus](https://www.youtube.com/@thirus)**:  ‧ Shruti Balasa ‧ Independent Developer
+- **[@yelocode](https://www.youtube.com/@yelocode)**:  ‧ Martin Yelo ‧ Independent Developer
+- **[@davidconnelly](https://www.youtube.com/@davidconnelly)**:  ‧ David Connelly ‧ Founder of Trongate
+- **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**:  ‧ Ismael Catalá Gil ‧ Founder of El Rincón de Isma
+- **[@codeexperts](https://www.youtube.com/@codeexperts)**:  ‧ Content Creator
+- **[@zaprogramujzycie](https://www.youtube.com/@zaprogramujzycie)**:  ‧ Content Creator
+- **[@themsaid](https://www.youtube.com/@themsaid)**:  ‧ Mohamed Said ‧ Independent Developer
+- **[@mattstauffer](https://www.youtube.com/@mattstauffer)**:  ‧ Matt Stauffer ‧ Founder of Tighten
+- **[@freekmurze](https://www.youtube.com/@freekmurze)**:  ‧ Freek Van der Herten ‧ Partner at Spatie
+- **[@pinguimdolaravel](https://www.youtube.com/@pinguimdolaravel)**:  ‧ Rafael Lunardelli ‧ Founder of Pinguim Academy
+- **[@mateusguimaraes](https://www.youtube.com/@mateusguimaraes)**:  ‧ Mateus Guimarães ‧ Developer at ENTRE Institute
+- **[@juststeveking](https://www.youtube.com/@juststeveking)**:  ‧ Steve King ‧ Developer Relations at Treblle
+- **[@ThibaudDauce](https://www.youtube.com/@ThibaudDauce)**:  ‧ Thibaud Dauce ‧ Independent Developer
+- **[@nunomaduro](https://www.youtube.com/@nunomaduro)**:  ‧ Nuno Maduro ‧ Developer at Laravel
+- **[@devtechtips](https://www.youtube.com/@devtechtips)**:  ‧ Julio Cesar Urnau de Almeida ‧ CTO at Academia do Ecommerce
+- **[@toham](https://www.youtube.com/@toham)**:  ‧ Thomas Boileau ‧ Independent Developer
+- **[@saaslaravel](https://www.youtube.com/@saaslaravel)**:  ‧ Przemysław Przyłucki ‧ Content Creator
+- **[@filamentdaily](https://www.youtube.com/@filamentdaily)**:  ‧ Povilas Korop ‧ Founder of Laravel Daily
+- **[@carlosbuenosvinoszamora](https://www.youtube.com/@carlosbuenosvinoszamora)**:  ‧ Carlos Buenosvinos ‧ Author of Domain-Driven Design in PHP and CQRS by Example
+- **[@tiojobs](https://www.youtube.com/@tiojobs)**:  ‧ Tio Jobs ‧ Founder of JOBS TREINAMENTOS
+- **[@phparch](https://www.youtube.com/@phparch)**:  ‧ PHP Architect
+- **[@dersonsena-cabradev](https://www.youtube.com/@dersonsena-cabradev)**:  ‧ Kilderson Sena ‧ Developer at Yii Academy
+- **[@serversideupnet](https://www.youtube.com/@serversideupnet)**:  ‧ Server Side Up
+- **[@christophrumpel](https://www.youtube.com/@christophrumpel)**:  ‧ Christoph Rumpel ‧ Author of Laravel Core Adventures
+- **[@metaphoricallyspeaking](https://www.youtube.com/@metaphoricallyspeaking)**:  ‧ Andrew Cairns ‧ Independent Developer
+- **[@differdev](https://www.youtube.com/@differdev)**:  ‧ Leonardo Tumadjian ‧ Content Creator at DifferDev
+- **[@pascalbaljet](https://www.youtube.com/@pascalbaljet)**:  ‧ Pascal Baljet ‧ Creator of Laravel Splade
+- **[@codewithburt](https://www.youtube.com/@codewithburt)**:  ‧ Bert De Swaef ‧ Developer at Vulpo
+- **[@laraphant](https://www.youtube.com/@laraphant)**:  ‧ William Juma Misiko ‧ Founder of Laraphant
+- **[@thejasonmccreary](https://www.youtube.com/@thejasonmccreary)**:  ‧ Jason McCreary ‧ Founder of Laravel Shift
+- **[@spatie](https://www.youtube.com/@spatie)**:  ‧ Spatie
+- **[@85bitsdeveloper](https://www.youtube.com/@85bitsdeveloper)**:  ‧ Content Creator
+- **[@laravelonline](https://www.youtube.com/@laravelonline)**:  ‧ Shane Rosenthal ‧ Founder of LaravelOnline
+- **[@philodev](https://www.youtube.com/@philodev)**:  ‧ Philo Hermans ‧ Founder of Anystack
+- **[@derickrethansxdebug](https://www.youtube.com/@derickrethansxdebug)**:  ‧ Derick Rethans ‧ Xdebug author and PHP contributor
+- **[@icodestuff](https://www.youtube.com/@icodestuff)**:  ‧ Icodestuff ‧ Content Creator
+- **[@agoalofalife](https://www.youtube.com/@agoalofalife)**:  ‧ Ilia Chubarov ‧ Independent Developer
+- **[@dasundev](https://www.youtube.com/@dasundev)**:  ‧ Dasun Tharanga ‧ Founder of Dasun Dev
+- **[@daltoncast](https://www.youtube.com/@daltoncast)**:  ‧ Jordan Dalton ‧ Developer at Financial
+- **[@olliecodes](https://www.youtube.com/@olliecodes)**:  ‧ Ollie Read ‧ Independent Developer
+- **[@euseiphp](https://www.youtube.com/@euseiphp)**:  ‧ Álvaro Jorge ‧ Founder of EuSeiPhp
+- **[@jackmcdade](https://www.youtube.com/@jackmcdade)**:  ‧ Jack McDade ‧ Co-Founder of Statamic
+- **[@filamentbr](https://www.youtube.com/@filamentbr)**:  ‧ Leandro Ferreira ‧ Content Creator at Filament Brasil
+- **[@leewayacademy](https://www.youtube.com/@leewayacademy)**:  ‧ Mauro Chojrin ‧ Technical Coach
+- **[@livewirephp](https://www.youtube.com/@livewirephp)**:  ‧ Caleb Porzio ‧ Founder of Livewire
+- **[@rmsramos](https://www.youtube.com/@rmsramos)**:  ‧ Rômulo Ramos ‧ Content Creator
+- **[@codewithsaleh](https://www.youtube.com/@codewithsaleh)**:  ‧ Saleh Hashemi ‧ Laravel Developer
+- **[@phpugly](https://www.youtube.com/@phpugly)**:  ‧ PHPUgly
+- **[@happytodev](https://www.youtube.com/@happytodev)**:  ‧ Fred Blanc ‧ Founder of HappyToDev
+- **[@laravelturkiye](https://www.youtube.com/@laravelturkiye)**:  ‧ Laravel Türkiye ‧ Turkish Laravel Community
+- **[@laravelschool](https://www.youtube.com/@laravelschool)**:  ‧ Thouhedul Islam ‧ Independent Developer
+- **[@techchess](https://www.youtube.com/@techchess)**:  ‧ Steve Nyanumba ‧ Kenyan Laravel Developer
+- **[@lorisleiva](https://www.youtube.com/@lorisleiva)**:  ‧ Loris Leiva ‧ Developer at Solana Labs
+- **[@96downlu](https://www.youtube.com/@96downlu)**:  ‧ Luke Downing ‧ Developer at Pest PHP core team
+- **[@codekif](https://www.youtube.com/@codekif)**:  ‧ Pavlove Biokou ‧ Independent Developer
+- **[@dcblogdev](https://www.youtube.com/@dcblogdev)**:  ‧ Developer at dcblog.dev
+- **[@amitmerchant](https://www.youtube.com/@amitmerchant)**:  ‧ Amit Merchant ‧ Developer at ValueLabs
+- **[@phpislife](https://www.youtube.com/@phpislife)**:  ‧ José Marcos ‧ Content Creator
+- **[@jacked-php](https://www.youtube.com/@jacked-php)**:  ‧ Savio Resende ‧ Independent Developer
+- **[@akbolota](https://www.youtube.com/@akbolota)**:  ‧ Bolota ‧ Developer at Falcon Tecnology
+- **[@milwad](https://www.youtube.com/@milwad)**:  ‧ Milwad ‧ Founder of Binafy
+- **[@simonhamp](https://www.youtube.com/@simonhamp)**:  ‧ Simon Hamp ‧ Developer at Tighten
+- **[@webmentor](https://www.youtube.com/@webmentor)**:  ‧ Lucas Antônio ‧ Founder of Webmentor
+- **[@nhrrob](https://www.youtube.com/@nhrrob)**:  ‧ Nazmul Hasan Robin ‧ Developer at WPDeveloper
+- **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**:  ‧ Marian Pop ‧ Founder of Laravel Magazine
+- **[@nexxai_dev](https://www.youtube.com/@nexxai_dev)**:  ‧ JT Smith ‧ Laravel Developer
